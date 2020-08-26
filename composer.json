@@ -11,10 +11,10 @@
     },
     "require": {
         "php": ">=5.5.1",
-        "karlaustin/lightsaml": "^1.3"
+        "forlabs/lightsaml": "^2.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.8",
+        "phpunit/phpunit": "~8.5",
         "satooshi/php-coveralls": "~0.6"
     },
     "config": {
