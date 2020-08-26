@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/lightsaml-idp",
+    "name": "andychukse/lightsaml-idp",
     "license": "GPL-3.0+",
     "type": "library",
     "description": "Light SAML2 IDP php library",
@@ -11,7 +11,7 @@
     },
     "require": {
         "php": ">=5.5.1",
-        "lightsaml/lightsaml": "^1.1"
+        "karlaustin/lightsaml": "^1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8",
